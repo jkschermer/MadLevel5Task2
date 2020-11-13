@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MadLevel5Task2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="game_backlog_fragment_label">Game back log fragment</string>
+    <string name="add_game_fragment_label">Add game fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_game_title">Add game</string>
+    <string name="game_backlog_title">Game Backlog</string>
+    <string name="game_backlog_title_game">%1$s</string>
+    <string name="game_backlog_console_release_date">%1$s             Release:%2%s</string>
+    <string name="add_game_title_hint">Title</string>
+    <string name="platform_hint">Platform</string>
+    <string name="release_date_hint">"Day               Month               Year"</string>
+    <string name="release_date_hint_day">Day</string>
+    <string name="release_date_hint_month">Month</string>
+    <string name="release_date_hint_year">Year</string>
+    <string name="not_valid_input">input is empty or not valid</string>
+    <string name="empty_title">Please fill in a title</string>
+    <string name="empty_platform">Please fill in a platform</string>
+    <string name="empty_release_date">Please fill in a release date</string>
+    <string name="error_release_date">Please fill in a valid date</string>
+</resources>
